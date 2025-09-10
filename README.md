@@ -1,3 +1,3 @@
 # FNAF2
-[https://github.com/sussygamedeveloper/FNAF2-NOHACKS
-](https://sussygamedeveloper.github.io/FiveNights2NOHACKS/)
+[https://github.com/SMINEKID/FNAF2
+](http://sminekid.github.io/FNAF2)
